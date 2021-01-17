@@ -16,7 +16,7 @@
 ### [proxy_list] 代理列表
 
 #**********************************************************************
-[proxy_list]
+[outbound_block_list]
 
 # MyList
 (^|\.)1password\.com$
