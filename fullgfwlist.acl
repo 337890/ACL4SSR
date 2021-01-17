@@ -5963,3 +5963,31 @@
 
 #华文电视
 (^|\.)ocnttv\.com$
+
+#**********************************************************************
+
+[outbound_block_list]
+# Porn
+(^|\.)\w*porn\w*\.\w*$
+(^|\.)8teenxxx\.com$
+(^|\.)ahcdn\.com$
+(^|\.)bcvcdn\.com$
+(^|\.)bongacams\.com$
+(^|\.)chaturbate\.com$
+(^|\.)dditscdn\.com$
+(^|\.)livejasmin\.com$
+(^|\.)phncdn\.com$
+(^|\.)phprcdn\.com$
+(^|\.)pornhub\.com$
+(^|\.)pornhubpremium\.com$
+(^|\.)rdtcdn\.com$
+(^|\.)redtube\.com$
+(^|\.)sb-cd\.com$
+(^|\.)spankbang\.com$
+(^|\.)t66y\.com$
+(^|\.)xhamster\.com$
+(^|\.)xnxx-cdn\.com$
+(^|\.)xnxx\.com$
+(^|\.)xvideos-cdn\.com$
+(^|\.)xvideos\.com$
+(^|\.)ypncdn\.com$
